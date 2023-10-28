@@ -1,0 +1,78 @@
+.Outer-div
+{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.Between
+{
+    background-color: slateblue ;
+}
+
+a:link
+{
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#Nav-bar
+{
+    position: sticky;
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Flex-item
+{
+    background-color: transparent;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    color: white;
+}
+
+#img-tesla
+{
+    height: 100;
+}
+
+.Model-3
+{
+    background-image: url(https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1-tesla-model-3-performance-2018-fd-hero-front.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.Semi-t
+{
+    background-image: url(https://th.bing.com/th/id/R.34bfef5de71caf22074451b4c4b0dc35?rik=TtXb8ZvS73CA1w&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2ftesla-semi-2018-2e.jpg&ehk=hywH34PmgbDS7sIml3%2bnu7C0DHRoBR%2f2TXzZyfSnt8w%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.Shop-A
+{
+    background-image: url(https://lh6.googleusercontent.com/proxy/ccz9aKkaOnsCLGjQWRujLXGOeqOqwHCGmSdBXLzjFzYGTnsHUYkHmcf16iKJ0swHqtF0M1rRFlQaYEWbPfOePMauGKxykJ4cDJFaaziRt5zXPEEcRK9wpdRCD77YGTMB=w1200-h630-p-k-no-nu);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+}
+
+body
+{
+    background-color: black;
+}
