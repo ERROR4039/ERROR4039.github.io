@@ -1,0 +1,23 @@
+li{
+    display:inline-block;
+    color: white;
+    margin:10px;
+    background-color: rgb(0, 0, 0);
+    padding:20px;
+}
+
+.title
+{
+    text-align: center;
+    background-color: maroon;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.img
+{
+    float: right;
+}
